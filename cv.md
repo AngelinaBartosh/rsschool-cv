@@ -11,7 +11,7 @@
 
 *** 
 
-### Education Background
+### Education background
 
    Date       |  Place of study 
 :------------------: | -----------------
@@ -33,3 +33,14 @@ My name is Angelina Bartosh and I'm from Belarus. I study at the B Belarusian St
  Web development attracted me the most. In addition to lectures at the university, I began to study this area on my own, but unfortunately I did the practical part only in laboratory work.
 
 ***
+
+### Code examples
+
+function multiply(a, b){
+  return a * b
+}
+
+***
+
+### Language
+* English A2
