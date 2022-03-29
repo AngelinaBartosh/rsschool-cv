@@ -1,6 +1,6 @@
 ## Angelina Bartosh
 
-![Avatar](/img/avatar.png "Avatar")
+![Avatar](https://github.com/AngelinaBartosh/rsschool-cv/raw/gh-pages/img/avatar.png "Avatar")
 
 ***
 
