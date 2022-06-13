@@ -14,6 +14,8 @@
 
 Student of 3 course Belarusian State University of Informatics and Radioelectronics. 
 
+***
+
 ### Сourses
 
 * JavaScript/Front-end Course. Stage 0 · RS School.
