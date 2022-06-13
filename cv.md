@@ -5,6 +5,7 @@
 ### Contacts for communication
 
 * E-mail: angeliiinna.bartosh@gmail.com
+* Skype: live:392586e21b7d932
 * Discord: Angelina(AngelinaBartosh)#3315
 
 *** 
@@ -22,16 +23,16 @@ Student of 3 course Belarusian State University of Informatics and Radioelectron
 
 ### About me
 My name is Angelina Bartosh and I'm from Belarus. I study at the B Belarusian State University of Informatics and Radioelectronics with a degree in system programmer. During the training, I studied:
+* HTML/CSS
+* JavaScript
 * C/C++
 * Java
 * SQL
 * Git
-* HTML/CSS
-* JavaScript
   
  Web development attracted me the most. In addition to lectures at the university, I began to study this area on my own, but unfortunately I did the practical part only in laboratory work.
 
 ***
 
 ### Language
-* English A2
+* English Pre-Intermediate
