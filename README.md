@@ -1,7 +1,3 @@
-https://AngelinaBartosh.github.io/rsschool-cv/
-
-
-
 ## Angelina Bartosh
 
 ***
