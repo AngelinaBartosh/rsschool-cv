@@ -1,7 +1,5 @@
 ## Angelina Bartosh
 
-![Avatar](https://github.com/AngelinaBartosh/rsschool-cv/raw/gh-pages/img/avatar.png "Avatar")
-
 ***
 
 ### Contacts for communication
@@ -11,13 +9,14 @@
 
 *** 
 
-### Education background
+### Education 
 
-   Date       |  Place of study 
-:------------------: | -----------------
-08.2019 - 06.2023 | Belarusian State University of Informatics and Radioelectronics
-09.2008 - 06.2019 | Secondary school №11 
- |
+Student of 3 course Belarusian State University of Informatics and Radioelectronics. 
+
+### Сourses
+
+* JavaScript/Front-end Course. Stage 0 · RS School.
+* At the moment: online english curses Skyeng and Duolingol.
 
 ***
 
@@ -31,14 +30,6 @@ My name is Angelina Bartosh and I'm from Belarus. I study at the B Belarusian St
 * JavaScript
   
  Web development attracted me the most. In addition to lectures at the university, I began to study this area on my own, but unfortunately I did the practical part only in laboratory work.
-
-***
-
-### Code examples
-
-function multiply(a, b){
-  return a * b
-}
 
 ***
 
